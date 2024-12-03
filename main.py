@@ -1,5 +1,4 @@
 from cgi import print_directory
-import tensorflow
 from collections import deque, defaultdict
 import os
 import logging
